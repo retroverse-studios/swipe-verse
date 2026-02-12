@@ -1,5 +1,9 @@
 # Swipe Verse
 
+<!-- BADGES:START -->
+[![card-game](https://img.shields.io/badge/-card-game-blue?style=flat-square)](https://github.com/topics/card-game) [![cross-platform](https://img.shields.io/badge/-cross-platform-blue?style=flat-square)](https://github.com/topics/cross-platform) [![data-driven](https://img.shields.io/badge/-data-driven-blue?style=flat-square)](https://github.com/topics/data-driven) [![flet](https://img.shields.io/badge/-flet-blue?style=flat-square)](https://github.com/topics/flet) [![mobile-first](https://img.shields.io/badge/-mobile-first-blue?style=flat-square)](https://github.com/topics/mobile-first) [![multiverse](https://img.shields.io/badge/-multiverse-blue?style=flat-square)](https://github.com/topics/multiverse) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![resource-management](https://img.shields.io/badge/-resource-management-blue?style=flat-square)](https://github.com/topics/resource-management) [![theme-based](https://img.shields.io/badge/-theme-based-blue?style=flat-square)](https://github.com/topics/theme-based) [![desktop-app](https://img.shields.io/badge/-desktop-app-blue?style=flat-square)](https://github.com/topics/desktop-app)
+<!-- BADGES:END -->
+
 A multiverse card-based decision game built with Python and Flet.
 
 ## Overview
